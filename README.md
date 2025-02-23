@@ -1,5 +1,3 @@
-# YedidyaEvenchen
-
 <h1 align="center">Hi, I'm Yedidya Even chen</h1>
 <p align="left">
   <a href="[https://www.linkedin.com/in/yedidya](https://www.linkedin.com/in/yedidya-even-chen/)">
@@ -7,8 +5,6 @@
   </a>
   <img src="https://komarev.com/ghpvc/?username=yed1dya&label=Profile%20views&color=0e75b6&style=flat" alt="yedidya" />
 </p>
-
-<h3 align="center">Welcome to my GitHub profile! I'm a passionate Computer Science student at Ariel University specializing in Data Science, Artificial Intelligence, and Machine Learning. Here, you'll find a collection of my projects, coursework, and contributions that showcase my skills and experiences.</h3>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yed1dya&show_icons=true&count_private=true&card_width=500)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yed1dya&hide=jupyter%20notebook&layout=compact&langs_count=5&card_width=450)](https://github.com/anuraghazra/github-readme-stats)
