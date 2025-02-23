@@ -10,7 +10,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yed1dya&hide=jupyter%20notebook&layout=compact&langs_count=5&card_width=450)](https://github.com/anuraghazra/github-readme-stats)
 
 ## About Me
-- **Education:** Studying for a Bachelor's Degree in Computer Science at Ariel University.
+<h3 align="left">Education:</h3>
+- Studying for a Bachelor's Degree in Computer Science at Ariel University.
 - Honor's Program
 - Dean's List
 - 96.5 GPA
